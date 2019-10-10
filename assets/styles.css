@@ -20,4 +20,16 @@
 /* body containing the cards and links */
 .cardBody{
     background-color: antiquewhite;
+    margin-top: 10px;
+}
+
+/* Resume page */
+#resumeTitle{
+    text-align: center;
+}
+#resName{
+    text-align: center;
+}
+.resInfo{
+    text-align: center;
 }
