@@ -16,3 +16,8 @@
 .logo{
     margin: 5px;
 }
+
+/* body containing the cards and links */
+.cardBody{
+    background-color: antiquewhite;
+}
