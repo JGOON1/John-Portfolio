@@ -1,3 +1,4 @@
+/* all withing the "nav bar" or header portion of portfolio */
 #nameTitle{
     text-align: center;
     
@@ -8,4 +9,10 @@
 .imageIcon{
     text-align: center;
 
+}
+.header{
+    background-color: antiquewhite;
+}
+.logo{
+    margin: 5px;
 }
