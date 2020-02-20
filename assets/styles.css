@@ -11,7 +11,7 @@
 
 }
 .header{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 .logo{
     margin: 5px;
@@ -19,8 +19,22 @@
 
 /* body containing the cards and links */
 .cardBody{
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     margin-top: 10px;
+}
+
+.card-size {
+    width: 65%;
+    height: 100%;
+}
+
+.resumeImg {
+    border: 1px solid gray;
+    margin-top: 25px;
+}
+
+.aa {
+    margin-top: 25px;
 }
 
 /* Resume page */
